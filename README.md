@@ -7,29 +7,21 @@
 ### Results
     The overall analysis showed that Urban citys have a significantly higher number of drivers, rides and fares when compared to Suburban and Rural city types. Rural cities have a higher average fare than Suburban and Urban city types, but Urban cities have the highest sum of fares when compared to the other city types. The following graphs are the visual results of the analysis. 
     
-    ![figure1]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig1.png)
+    ![figure1](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig1.png)
     
-    ![figure2]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig2.png)
+    ![figure2](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig2.png)
     
-    ![figure3]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig3.png)
+    ![figure3](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig3.png)
     
-    ![figure4]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig4.png)
+    ![figure4](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig4.png)
     
-    ![figure5]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig5.png)
+    ![figure5](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig5.png)
     
-    ![figure6]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig6.png)
+    ![figure6](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig6.png)
     
-    ![figure7]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig7.png)
+    ![figure7](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/Fig7.png)
     
-    ![figure8]
-    (https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/PyBer_Fare_summary.png)
+    ![figure8](https://github.com/ColtPrgms/PyBer_Analysis/blob/main/analysis/PyBer_Fare_summary.png)
     
     
 ### Summary
